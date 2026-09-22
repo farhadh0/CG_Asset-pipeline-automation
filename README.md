@@ -33,3 +33,18 @@ The tool supports the following departments:
 - datetime
 - File System Automation
 
+## Project Structure
+
+```text
+CG_Asset_Pipeline/
+│
+├── main.py
+├── README.md
+└── assets/
+    └── Robot/
+        ├── model/
+        ├── texture/
+        ├── rig/
+        ├── animation/
+        ├── render/
+        └── metadata.json
